@@ -1,5 +1,3 @@
-# Credit_Card_Analysis_Report
-
 # Credit Card Transaction Analysis Dashboard
 
 ## Overview
